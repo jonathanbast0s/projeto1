@@ -1,3 +1,5 @@
+Projeto 'sistema', 'academia'.
+
 Primeiro projeto com python, django, html e sqlite.
 
 Cada modificação que eu fizer no meu projeto, será atualizada aqui no git.
